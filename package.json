@@ -1,0 +1,22 @@
+{
+  "name": "introducao-sass",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass scss/style.scss css/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/httpLucasReis/introducao-sass.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/httpLucasReis/introducao-sass/issues"
+  },
+  "homepage": "https://github.com/httpLucasReis/introducao-sass#readme",
+  "dependencies": {
+    "node-sass": "^4.14.1"
+  }
+}
